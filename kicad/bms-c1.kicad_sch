@@ -12499,7 +12499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LibreSolar:Wuerth_PowerOne_SMD_LF990005"
+		(property "Footprint" "open-pe:Wuerth_PowerPlus_M5_Nut"
 			(at 144.78 55.88 0)
 			(effects
 				(font
@@ -12873,7 +12873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LibreSolar:Wuerth_PowerOne_SMD_LF990005"
+		(property "Footprint" "open-pe:Wuerth_PowerPlus_M5_Nut"
 			(at 73.66 63.5 0)
 			(effects
 				(font
@@ -12973,7 +12973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LibreSolar:Wuerth_PowerOne_SMD_LF990005"
+		(property "Footprint" "open-pe:Wuerth_PowerPlus_M5_Nut"
 			(at 144.78 48.26 0)
 			(effects
 				(font
@@ -15681,7 +15681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LibreSolar:Wuerth_PowerOne_SMD_LF990005"
+		(property "Footprint" "open-pe:Wuerth_PowerPlus_M5_Nut"
 			(at 73.66 48.26 0)
 			(effects
 				(font
